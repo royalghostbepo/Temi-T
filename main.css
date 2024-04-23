@@ -241,7 +241,7 @@ label.fcf-label {
 }
 
 
-service-container {
+.service-container {
   max-width: 600px;
   margin: auto;
   background-color: aquamarine;
