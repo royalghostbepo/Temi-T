@@ -239,3 +239,11 @@ label.fcf-label {
     margin-bottom: 0.5rem;
     color: white;
 }
+
+
+service-container {
+  max-width: 600px;
+  margin: auto;
+  background-color: aquamarine;
+
+}
