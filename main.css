@@ -244,6 +244,10 @@ label.fcf-label {
 .service-container {
   max-width: 600px;
   height: 800px;
+  container:  flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
   margin: auto;
   background-color: aquamarine;
 
